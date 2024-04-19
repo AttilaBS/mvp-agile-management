@@ -5,11 +5,15 @@
         Este projeto faz parte das exigências da sprint Gestão Ágil de projetos
     e produtos, da pós graduação da PUC-Rio, curso de Engenharia de Software,
     turma de julho de 2023.
-        Neste projeto se encontram este arquivo README, um arquivo de texto com
-    o link do Canvas-MVP completo, arquivo pdf com o product-backlog, arquivo
-    pdf com o sprint-backlog, arquivo pdf com a timeline do MVP e seus
-    incrementos e a pasta wireframes, com os arquivos no formato .fig, além dos
-    arquivos no formato pdf dos wireframes do projeto.
+        Neste projeto se encontram este arquivo README; arquivo de texto com
+    o link da Lean Inception detalhada no Miro (com MVP Canvas); arquivo pdf com
+    o backlog do produto, Definition of Ready e Definition of Done - incluindo
+    ao menos um requisito não funcional (product-backlog); arquivo pdf com o
+    backlog da sprint com histórias de usuário detalhadas, estimadas e com
+    critérios de aceitação (sprint-backlog); arquivo pdf com a timeline do MVP e
+    seus incrementos (timeline-mvp-and-increments) e a pasta wireframes, com os
+    arquivos dos protótipos de Interface, no formato .fig e pdf, além do arquivo
+    wireframes-url.txt, com o link do painel Figma respectivo.
 
 ## Link do vídeo de apresentação:
 
