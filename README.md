@@ -14,11 +14,11 @@
     seus incrementos (timeline-mvp-and-increments) e a pasta wireframes, com os
     arquivos dos protótipos de Interface, no formato .fig e pdf, além do arquivo
     wireframes-url.txt, com o link do painel Figma respectivo e o vídeo de
-    apresentação do projeto.
+    apresentação do projeto (video_apresentacao_mvp.mkv).
 
 ## Link do vídeo de apresentação:
 
-    <inserir link do vídeo>
+    https://www.youtube.com/watch?v=HB-5M6ABK7Y
 
 ## Árvore de módulos. O sistema de pastas e arquivos do projeto está estruturado:
 
@@ -30,7 +30,6 @@
     |__ timeline-mvp-and-increments.pdf
     |__ README.md
     |__ video_apresentacao_mvp.mkv
-    |__ link_video_apresentacao_mvp.txt
     |__ wireframes
       |__ 1-login.pdf
       |__ 2-criar_usuário.pdf
