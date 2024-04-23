@@ -44,5 +44,7 @@
 
 ## Importante:
 
-        Apesar de todos os arquivos .pdf estarem com as mesmas permissões, alguns
-    dos arquivos não estão carregando corretamente da primeira vez no Github, apresentando o erro: "Unable to render code block". Caso isso ocorra, favor recarregar a página que o arquivo aparecerá normalmente.
+        Apesar de todos os arquivos .pdf estarem com as mesmas permissões,
+    alguns dos arquivos não estão carregando corretamente da primeira vez no
+    Github, apresentando o erro: "Unable to render code block". Caso isso
+    ocorra, favorrecarregar a página que o arquivo aparecerá normalmente.
