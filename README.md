@@ -2,7 +2,7 @@
 
 ## Descrição do projeto:
 
-        Este projeto faz parte das exigências da sprint Gestão Ágil de projetos
+        Este projeto faz parte das exigências do sprint Gestão Ágil de projetos
     e produtos, da pós graduação da PUC-Rio, curso de Engenharia de Software,
     turma de julho de 2023.
         Neste projeto se encontram este arquivo README; arquivo de texto com
@@ -13,7 +13,8 @@
     critérios de aceitação (sprint-backlog); arquivo pdf com a timeline do MVP e
     seus incrementos (timeline-mvp-and-increments) e a pasta wireframes, com os
     arquivos dos protótipos de Interface, no formato .fig e pdf, além do arquivo
-    wireframes-url.txt, com o link do painel Figma respectivo.
+    wireframes-url.txt, com o link do painel Figma respectivo e o vídeo de
+    apresentação do projeto.
 
 ## Link do vídeo de apresentação:
 
@@ -28,6 +29,8 @@
     |__ sprint-backlog.pdf
     |__ timeline-mvp-and-increments.pdf
     |__ README.md
+    |__ video_apresentacao_mvp.mkv
+    |__ link_video_apresentacao_mvp.txt
     |__ wireframes
       |__ 1-login.pdf
       |__ 2-criar_usuário.pdf
@@ -38,5 +41,3 @@
       |__ 7-visão_geral.pdf
       |__ Wireframe - Reminder App.fig
       |__ wireframes-url.txt
-
-
